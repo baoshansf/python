@@ -1,0 +1,12 @@
+<Data>
+  <student id='1'>
+    <name>wang</name>
+    <course>java</course>
+    <score>95</score>
+  </student>
+  <student id='2'>
+    <name>li</name>
+    <course>python</course>
+    <score>70</score>
+  </student>
+</Data>
